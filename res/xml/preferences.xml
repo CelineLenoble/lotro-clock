@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:dialogTitle="@string/button_initialization"
+        android:entries="@array/listperiods"
+        android:entryValues="@array/listperiods"
+        android:key="periods_initialization"
+        android:summary="@string/initializationdescription"
+        android:title="@string/button_initialization" 
+        />
+
+</PreferenceScreen>

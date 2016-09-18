@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LotroClock</string>
+    <string name="action_settings">Settings</string>
+    <string name="imdawndescription">Dawn from the Croft Watch in East Rohan</string>
+    <string name="before">before</string>
+    <string name="initializationdescription">Select the period the current period. To obtain greatest accuracy, you should reinitialize right at the beginning of a period. You will obtain better results if you use the predictintimegame plugin to reinitialize your clock at the right time.</string>
+
+    <string-array name="listperiods">
+        <item>Dawn</item>
+        <item>Morning</item>
+        <item>Noon</item>
+        <item>Afternoon</item>
+        <item>Dusk</item>
+        <item>Gloaming</item>
+        <item>Evening</item>
+        <item>Midnight</item>
+        <item>Late Watches</item>
+        <item>Foredawn</item>
+    </string-array>
+
+    <string name="button_text">Start now</string>
+    <string name="button_initialization">Initialization</string>
+    <string name="title_activity_initialization">Initialization</string>
+    <string name="refresh">Refresh</string>
+    <string name="notifications">Manage notifications</string>
+    <string name="notificationsdescription">Choose the period when you want to be notified. You will receive a notification each time this period starts in Lotro.</string>
+    <string name="enable_notification">Notification enabled when the box is checked. </string>
+    <string name="title_activity_alarm_receiver">AlarmReceiver</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notificationringtone">Choose the ringtone notification</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="notificationvibration">Vibrate if the box is checked.</string>
+    <string name="notificationtitle">Notification</string>
+    <string name="notificationtext">%1$s has just started !</string>
+    <string name="preftitlenotifications">Notification</string>
+	<string name="title_activity_notifications">Manage notifications</string>
+
+</resources>
